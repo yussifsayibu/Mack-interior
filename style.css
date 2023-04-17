@@ -122,6 +122,8 @@ header{
   }
   
   .slider-content h2 {
+    text-align: start;
+    color: var(--Secondary-Color--);
     font-size: 3em;
     margin-bottom: 20px;
     font-family: var(--Heading-font--);
